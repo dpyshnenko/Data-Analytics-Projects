@@ -1,6 +1,6 @@
 # Data-Analytics-Projects
 
-This repository contains projects that have been completed during Yandex School of Data Analysis.
+This repository contains projects that have been completed during training at Yandex School of Data Analysis.
 
 | Project Name | Description | Python Libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
