@@ -2,13 +2,13 @@
 
 # Project goals:
 - Evaluate customer profile on two prepaid plans (revenue, number of calls/messages/data traffic).
-- Analyze clients' behavior to determine best prepaid plan.
+- Analyze clients' behaviour to determine the best prepaid plan.
 - Formulate and test hypotheses.
-- Form recomendations for the advertising budget.
+- Form recommendations for the advertising budget.
 
 # Data
 - Anonymized real data about customers of telecommunication company has been used.
-- The following data was available:
+- The following data has been used in the project: 
   * calls 
   * data traffic
   * messages
